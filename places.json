@@ -1,0 +1,152 @@
+[
+  {
+    "id": "c90364c39c78b2b622ff2a9b63cb9184",
+    "name": "Praia da Joaquina",
+    "location": "Lagoa da Conceição",
+    "imageUrl": "URL_da_imagem",
+    "description": "Famosa por suas dunas e ondas fortes, é um ponto de encontro para surfistas e praticantes de sandboard.",
+    "category": "praia",
+    "latitude": -27.6033,
+    "longitude": -48.4331
+  },
+  {
+    "id": "95d411fa237095f61b1209178c0c0bcf",
+    "name": "Praia do Campeche",
+    "location": "Campeche",
+    "imageUrl": "URL_da_imagem",
+    "description": "Extensa faixa de areia branca com mar agitado, ideal para surfistas e admiradores da Ilha do Campeche.",
+    "category": "praia",
+    "latitude": -27.6702,
+    "longitude": -48.4828
+  },
+  {
+    "id": "eaabb846c59c1b0593a397a48842ca0c",
+    "name": "Praia dos Ingleses",
+    "location": "Ingleses do Rio Vermelho",
+    "imageUrl": "URL_da_imagem",
+    "description": "Popular entre turistas, oferece infraestrutura completa e águas mornas, propícias para banho.",
+    "category": "praia",
+    "latitude": -27.4351,
+    "longitude": -48.3995
+  },
+  {
+    "id": "0fcbbd1d5ae1f71f80b21fd9bb39522b",
+    "name": "Praia de Jurerê",
+    "location": "Jurerê",
+    "imageUrl": "URL_da_imagem",
+    "description": "Dividida entre Jurerê Tradicional e Jurerê Internacional, é conhecida por suas águas calmas e ambiente sofisticado.",
+    "category": "praia",
+    "latitude": -27.4368,
+    "longitude": -48.5011
+  },
+  {
+    "id": "0300a2e701336d9932f974d284a41fcc",
+    "name": "Praia Mole",
+    "location": "Lagoa da Conceição",
+    "imageUrl": "URL_da_imagem",
+    "description": "Famosa entre surfistas, possui areias macias e é cercada por morros verdes, criando um visual paradisíaco.",
+    "category": "praia",
+    "latitude": -27.5914,
+    "longitude": -48.4353
+  },
+  {
+    "id": "38ab7873a6441de7808212563ed231eb",
+    "name": "Praia Brava",
+    "location": "Praia Brava",
+    "imageUrl": "URL_da_imagem",
+    "description": "Com mar agitado e ondas fortes, é ideal para o surfe e atrai um público jovem em busca de agito.",
+    "category": "praia",
+    "latitude": -27.3956,
+    "longitude": -48.4131
+  },
+  {
+    "id": "063f8071fb91c1a0015531631ec79484",
+    "name": "Lagoinha do Leste",
+    "location": "Pântano do Sul",
+    "imageUrl": "URL_da_imagem",
+    "description": "Acessível por trilha ou barco, é uma praia deserta com beleza selvagem, ideal para quem busca tranquilidade.",
+    "category": "praia",
+    "latitude": -27.749,
+    "longitude": -48.489
+  },
+  {
+    "id": "f7b32a0c6d92eadd91d5892f206a4d1e",
+    "name": "Praia do Santinho",
+    "location": "Santinho",
+    "imageUrl": "URL_da_imagem",
+    "description": "Conhecida por suas águas claras e costões com inscrições rupestres, é um destino tanto para surfistas quanto para famílias.",
+    "category": "praia",
+    "latitude": -27.4606,
+    "longitude": -48.3797
+  },
+  {
+    "id": "9017673ea23c84b3454d60301a1ef70d",
+    "name": "Praia da Armação",
+    "location": "Armação do Pântano do Sul",
+    "imageUrl": "URL_da_imagem",
+    "description": "Tradicional vila de pescadores, oferece um ambiente tranquilo com barcos coloridos e acesso à Ilha do Campeche.",
+    "category": "praia",
+    "latitude": -27.7086,
+    "longitude": -48.5008
+  },
+  {
+    "id": "2b87c625e050001c5e2fc631e76162d5",
+    "name": "Praia da Barra da Lagoa",
+    "location": "Barra da Lagoa",
+    "imageUrl": "URL_da_imagem",
+    "description": "Com águas calmas e infraestrutura completa, é ideal para famílias e oferece acesso ao Projeto Tamar.",
+    "category": "praia",
+    "latitude": -27.5733,
+    "longitude": -48.4339
+  },
+  {
+    "id": "9eb28f7067dac1b5cdf9063881f2b13c",
+    "name": "Praia do Pântano do Sul",
+    "location": "Pântano do Sul",
+    "imageUrl": "URL_da_imagem",
+    "description": "Conhecida por sua vila de pescadores e restaurantes de frutos do mar, oferece um ambiente tranquilo e familiar.",
+    "category": "praia",
+    "latitude": -27.7183,
+    "longitude": -48.5203
+  },
+  {
+    "id": "0c3ece9a8f2a11018828460f0b82f889",
+    "name": "Praia de Canasvieiras",
+    "location": "Canasvieiras",
+    "imageUrl": "URL_da_imagem",
+    "description": "Com águas calmas e infraestrutura completa, é popular entre turistas e famílias.",
+    "category": "praia",
+    "latitude": -27.4317,
+    "longitude": -48.4587
+  },
+  {
+    "id": "7fb4e91208eb2d6ab5309b3e5ea9149a",
+    "name": "Praia de Naufragados",
+    "location": "Naufragados",
+    "imageUrl": "URL_da_imagem",
+    "description": "Acesso por trilha ou barco, oferece um cenário rústico e preservado, ótimo para trilhas e pesca.",
+    "category": "praia",
+    "latitude": -27.8236,
+    "longitude": -48.5824
+  },
+  {
+    "id": "87c156d88c8b924b5d7d4d8b8ea39b17",
+    "name": "Praia da Galheta",
+    "location": "Lagoa da Conceição",
+    "imageUrl": "URL_da_imagem",
+    "description": "Praia naturista cercada por morros, acessível por trilha e com um visual incrível.",
+    "category": "praia",
+    "latitude": -27.595,
+    "longitude": -48.4219
+  },
+  {
+    "id": "3b3bb70a54258802d232b9272b7316a4",
+    "name": "Praia do Forte",
+    "location": "Praia do Forte",
+    "imageUrl": "URL_da_imagem",
+    "description": "Pequena praia com águas calmas e um antigo forte histórico.",
+    "category": "praia",
+    "latitude": -27.4275,
+    "longitude": -48.56
+  }
+]
