@@ -198,5 +198,155 @@
     "category": "praia",
     "latitude": 0.0,
     "longitude": 0.0
+  },
+  {
+    "id": "t1b2c3d4e5f6789012345678",
+    "name": "Trilha da Lagoinha do Leste",
+    "location": "Extremo Sul da Ilha",
+    "description": "A Trilha da Lagoinha do Leste possui dois acessos com níveis de dificuldade diferentes: médio pelo Pântano do Sul (aproximadamente 3 horas de ida e volta, recomendada para crianças acima de 12 anos) e alto pelo Matadeiro (aproximadamente 7 horas de ida e volta). A trilha recompensa com a beleza selvagem da Lagoinha do Leste.",
+    "imageUrl": "https://f1ciaimobiliaria.com.br/wp-content/uploads/2022/07/custo-de-vida-florianopolis.jpg",
+    "category": "trilha",
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "id": "tf8e7d6c5b4a3210987654321",
+    "name": "Trilha Pedra da Boa Vista",
+    "location": "Leste da Ilha",
+    "description": "A Trilha da Pedra da Boa Vista tem nível médio de dificuldade e é recomendada para crianças acima de 10 anos. O tempo de ida e volta varia: cerca de 2 horas e meia voltando pela Fortaleza, e aproximadamente 3 horas voltando pela Praia Mole. Oferece vistas panorâmicas da região leste.",
+    "imageUrl": "https://f1ciaimobiliaria.com.br/wp-content/uploads/2022/07/custo-de-vida-florianopolis.jpg",
+    "category": "trilha",
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "id": "t9012345678abcdef90123456",
+    "name": "Trilha das Piscinas Naturais da Barra da Lagoa",
+    "location": "Leste da Ilha (Barra da Lagoa)",
+    "description": "A Trilha das Piscinas Naturais na Barra da Lagoa é considerada fácil, adequada para crianças, e tem um tempo de ida e volta de aproximadamente 30 minutos. Leva a belas piscinas naturais formadas entre as rochas.",
+    "imageUrl": "https://f1ciaimobiliaria.com.br/wp-content/uploads/2022/07/custo-de-vida-florianopolis.jpg",
+    "category": "trilha",
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "id": "tbcdefa0123456789abcdef01",
+    "name": "Trilha do Gravatá",
+    "location": "Norte da Ilha (Praia da Joaquina)",
+    "description": "A Trilha do Gravatá é fácil, pode ser feita com crianças, e tem uma duração de cerca de 1 hora de ida e volta. Proporciona vistas da Praia da Joaquina e da Praia Mole.",
+    "imageUrl": "https://f1ciaimobiliaria.com.br/wp-content/uploads/2022/07/custo-de-vida-florianopolis.jpg",
+    "category": "trilha",
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "id": "t34567890abcdefa0123456789",
+    "name": "Trilha do Morro das Aranha",
+    "location": "Leste da Ilha (Praia Mole)",
+    "description": "A Trilha do Morro das Aranha é de nível médio e não é recomendada para crianças. O tempo estimado de ida e volta é de 2 horas. Oferece vistas panorâmicas da Praia Mole e arredores.",
+    "imageUrl": "https://f1ciaimobiliaria.com.br/wp-content/uploads/2022/07/custo-de-vida-florianopolis.jpg",
+    "category": "trilha",
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "id": "tfeiti0123456789abcdef012345",
+    "name": "Trilha da Feiticeira",
+    "location": "Sul da Ilha",
+    "description": "A Trilha da Feiticeira possui nível médio de dificuldade e pode ser feita com crianças, com cuidado. O tempo estimado de ida e volta é de 2 horas. A trilha leva a cachoeiras e ruínas históricas.",
+    "imageUrl": "https://f1ciaimobiliaria.com.br/wp-content/uploads/2022/07/custo-de-vida-florianopolis.jpg",
+    "category": "trilha",
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "id": "tmorro0123456789abcdef01234",
+    "name": "Trilha do Morro do Lampião",
+    "location": "Leste da Ilha (Barra da Lagoa)",
+    "description": "A Trilha do Morro do Lampião é de nível fácil e pode ser feita com crianças. O tempo de ida e volta é de aproximadamente 1 hora. A trilha oferece vistas da Barra da Lagoa e da Praia da Galheta.",
+    "imageUrl": "https://f1ciaimobiliaria.com.br/wp-content/uploads/2022/07/custo-de-vida-florianopolis.jpg",
+    "category": "trilha",
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "id": "tnaufr0123456789abcdef0123",
+    "name": "Trilha de Naufragados",
+    "location": "Extremo Sul da Ilha",
+    "description": "A Trilha de Naufragados é de nível fácil e adequada para crianças. O tempo estimado de ida e volta até o farol é de 1 hora e 30 minutos. A trilha leva a uma praia isolada com um farol histórico.",
+    "imageUrl": "https://f1ciaimobiliaria.com.br/wp-content/uploads/2022/07/custo-de-vida-florianopolis.jpg",
+    "category": "trilha",
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "id": "tsaquin0123456789abcdef012",
+    "name": "Trilha do Saquinho",
+    "location": "Extremo Sul da Ilha",
+    "description": "A Trilha do Saquinho possui nível médio de dificuldade e não é recomendada para crianças. O tempo estimado de ida e volta é de 1 hora e 30 minutos. A trilha leva a uma praia isolada e charmosa.",
+    "imageUrl": "https://f1ciaimobiliaria.com.br/wp-content/uploads/2022/07/custo-de-vida-florianopolis.jpg",
+    "category": "trilha",
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "id": "tchurao0123456789abcdef0123",
+    "name": "Trilha do Churão",
+    "location": "Sul da Ilha (Praia da Solidão)",
+    "description": "A Trilha do Churão é de nível fácil e pode ser feita com crianças. O tempo de ida e volta é de aproximadamente 40 minutos. A trilha oferece acesso a uma praia mais reservada.",
+    "imageUrl": "https://f1ciaimobiliaria.com.br/wp-content/uploads/2022/07/custo-de-vida-florianopolis.jpg",
+    "category": "trilha",
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "id": "tcosta0123456789abcdef0123",
+    "name": "Trilha da Costa da Lagoa",
+    "location": "Leste da Ilha (Lagoa da Conceição)",
+    "description": "Localizada no Canto dos Araçás, esta trilha de nível médio preserva a cultura açoriana e possui uma vila de pescadores. Leva cerca de 3,5 horas para chegar ao fim ou 3 horas para chegar à cachoeira. A trilha oferece vistas da Lagoa da Conceição e possui casas históricas e restaurantes.",
+    "imageUrl": "https://f1ciaimobiliaria.com.br/wp-content/uploads/2022/07/custo-de-vida-florianopolis.jpg",
+    "category": "trilha",
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "id": "tpocao0123456789abcdef01234",
+    "name": "Trilha do Poção",
+    "location": "Centro da Ilha (Córrego Grande)",
+    "description": "Localizada no bairro do Córrego Grande, esta trilha fácil de 20 minutos leva a uma piscina natural com uma cachoeira de 5 metros. É popular entre estudantes universitários e possui um riacho que outrora abastecia a área.",
+    "imageUrl": "https://f1ciaimobiliaria.com.br/wp-content/uploads/2022/07/custo-de-vida-florianopolis.jpg",
+    "category": "trilha",
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "id": "tgurita0123456789abcdef0123",
+    "name": "Trilha da Gurita",
+    "location": "Sul da Ilha (Lagoa do Peri)",
+    "description": "Situada no sul da ilha, dentro da Lagoa do Peri, esta trilha fácil de 1 hora possui fontes de água limpa e ruínas de moinhos do século XIX.",
+    "imageUrl": "https://f1ciaimobiliaria.com.br/wp-content/uploads/2022/07/custo-de-vida-florianopolis.jpg",
+    "category": "trilha",
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "id": "tassopro0123456789abcdef012",
+    "name": "Sertão do Assopro",
+    "location": "Leste da Ilha (Morro da Lagoa da Conceição)",
+    "description": "Localizado no topo do Morro da Lagoa da Conceição, esta trilha varia de fácil (até o mirante, 45 minutos) a médio (até a Costa da Lagoa, 3 horas). Oferece vistas panorâmicas e possui uma cachoeira.",
+    "imageUrl": "https://f1ciaimobiliaria.com.br/wp-content/uploads/2022/07/custo-de-vida-florianopolis.jpg",
+    "category": "trilha",
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  {
+    "id": "triover0123456789abcdef0123",
+    "name": "Trilha do Rio Vermelho",
+    "location": "Leste da Ilha (Parque Estadual do Rio Vermelho)",
+    "description": "Mais um passeio familiar do que uma trilha, esta trilha se concentra na preservação ambiental e dura de 45 minutos a 1 hora. Visitas guiadas estão disponíveis para explicar a história e a vida selvagem da área.",
+    "imageUrl": "https://f1ciaimobiliaria.com.br/wp-content/uploads/2022/07/custo-de-vida-florianopolis.jpg",
+    "category": "trilha",
+    "latitude": 0.0,
+    "longitude": 0.0
   }
 ]
