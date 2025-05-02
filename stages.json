@@ -1,0 +1,182 @@
+{
+  "stages": [
+    {
+      "stage": 1,
+      "name": "Início e Disputa de Posição (Em Pé)",
+      "goal": {
+        "topPlayer": "Quedas, puxar para guarda ou impedir a queda do outro.",
+        "bottomPlayer": null
+      },
+      "keys": "Pegadas, postura, leitura corporal.",
+      "example": "Entradas de queda (single/double leg, seoi nage), ou puxada pra guarda fechada.",
+      "extraInfo": null,
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=8m_K9kYiXsw",
+          "name": "Melhore a sua Luta em Pé - 4 Quedas usando a Gola Cruzada",
+          "channel": "Manual do Jiu-Jitsu"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=dLMkEsWcTmA",
+          "name": "Utilizando o Arm Drag para Conectar Entrada de Queda Com Kyra Gracie (NOGI)",
+          "channel": "BJJ Fanatics Brasil"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=HyLCLu1bQWA",
+          "name": "Aprenda 3 formas de puxar para a guarda com segurança",
+          "channel": "Manual do Jiu-Jitsu"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=MiRIWHsaS3Y",
+          "name": "UMA DAS MELHORES QUEDAS PARA JUDO E JIU JITSU - FACIL DE APRENDER FEU BJJ",
+          "channel": "FEU BJJ"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=BFoIHjMs0xo",
+          "name": "JIU JITSU - EXCELENTE QUEDA PARA DERRUBAR ALGUÉM MAIS PESADO - Feat. Feu Bjj",
+          "channel": "Muito Mais Ação Jiu Jitsu"
+        }
+      ]
+    },
+    {
+      "stage": 2,
+      "name": "Controle Inicial / Passagem vs Retenção de Guarda",
+      "goal": {
+        "topPlayer": "Passar a guarda.",
+        "bottomPlayer": "Controlar a distância, buscar raspagens ou finalizações."
+      },
+      "keys": null,
+      "example": "Toreando vs guarda laçada com De La Riva.",
+      "extraInfo": null,
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=2l5sBVvd7pA",
+          "name": "CONCEITOS DA PASSAGEM DE GUARDA EMBORCANDO - NO TATAME COM O MESTRE",
+          "channel": "Fabio Gurgel"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=fmrEZL6oEn8",
+          "name": "Xande Ribeiro Explica Os Segredos Para Nunca Ter Sua Guarda Passada (Princípio do Diamante)",
+          "channel": "BJJ Fanatics Brasil"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=9dfrxj-T_x8",
+          "name": "Cruzada de Joelho - Kneed Cross Pass | Passagem de Guarda",
+          "channel": "MICAEL GALVÃO"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=QV40Pxy92kk",
+          "name": "A sua guarda não será a mesma depois desse vídeo . Jiu Jitsu",
+          "channel": "Living From Jiu -Jitsu"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=m_etuBcf51M",
+          "name": "TUDO QUE VOCÊ PRECISA SABER SOBRE GUARDA FECHADA",
+          "channel": "Diogo Reis - Baby Shark"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=kSMz7ZGVk5w",
+          "name": "AULA DE PASSAGEM DE GUARDA ALLIANCE JOINVILLE",
+          "channel": "Muito Oss"
+        }
+      ]
+    },
+    {
+      "stage": 3,
+      "name": "Estabilização e Pontuação",
+      "goal": {
+        "topPlayer": "Estabilizar 3 segundos em posição dominante (100kg, montada, costas).",
+        "bottomPlayer": "Recuperar a guarda ou inverter."
+      },
+      "keys": null,
+      "example": null,
+      "extraInfo": "Aqui muita luta se define — ou tu pontua e impõe teu jogo, ou perde o embalo.",
+      "videos": [
+        {
+          "url": "https://youtube.com/watch?v=video6",
+          "name": "Controle de Posições",
+          "channel": "BJJ Fundamentals"
+        },
+        {
+          "url": "https://youtube.com/watch?v=video7",
+          "name": "Defesas e Escapes",
+          "channel": "Grappling Mastery"
+        },
+        {
+          "url": "https://youtube.com/watch?v=video8",
+          "name": "Transições Avançadas",
+          "channel": "BJJ Tactics"
+        }
+      ]
+    },
+    {
+      "stage": 4,
+      "name": "Transição de Posições Dominantes",
+      "goal": {
+        "topPlayer": "Sair do 100kg para montada ou costas, onde as finalizações ficam mais acessíveis.",
+        "bottomPlayer": null
+      },
+      "keys": null,
+      "example": null,
+      "extraInfo": "Cada transição bem feita mina o gás do adversário.",
+      "videos": [
+        {
+          "url": "https://youtube.com/watch?v=video9",
+          "name": "Transições Básicas",
+          "channel": "BJJ Fundamentals"
+        }
+      ]
+    },
+    {
+      "stage": 5,
+      "name": "Finalização ou Controle Total",
+      "goal": {
+        "topPlayer": "Estrangular, aplicar uma chave, ou manter o domínio até o fim.",
+        "bottomPlayer": null
+      },
+      "keys": null,
+      "example": null,
+      "extraInfo": "Dilema: continuar pontuando ou arriscar a finalização?",
+      "videos": [
+        {
+          "url": "https://youtube.com/watch?v=video10",
+          "name": "Finalizações da Montada",
+          "channel": "BJJ Fundamentals"
+        },
+        {
+          "url": "https://youtube.com/watch?v=video11",
+          "name": "Finalizações das Costas",
+          "channel": "Grappling Mastery"
+        }
+      ]
+    },
+    {
+      "stage": 6,
+      "name": "Defesa e Contra-Ataque (se em desvantagem)",
+      "goal": {
+        "topPlayer": "Escapar, raspar, inverter ou até pegar nas costas na recuperação.",
+        "bottomPlayer": null
+      },
+      "keys": null,
+      "example": null,
+      "extraInfo": "Onde a cabeça tem que estar fria e estratégica. Muita luta vira aqui.",
+      "videos": [
+        {
+          "url": "https://youtube.com/watch?v=video12",
+          "name": "Defesas Básicas",
+          "channel": "BJJ Fundamentals"
+        },
+        {
+          "url": "https://youtube.com/watch?v=video13",
+          "name": "Contra-Ataques",
+          "channel": "Grappling Mastery"
+        },
+        {
+          "url": "https://youtube.com/watch?v=video14",
+          "name": "Inversões",
+          "channel": "BJJ Tactics"
+        }
+      ]
+    }
+  ]
+}
