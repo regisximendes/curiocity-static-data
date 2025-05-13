@@ -93,19 +93,34 @@
       "extraInfo": "Aqui muita luta se define — ou tu pontua e impõe teu jogo, ou perde o embalo.",
       "videos": [
         {
-          "url": "https://youtube.com/watch?v=video6",
-          "name": "Controle de Posições",
-          "channel": "BJJ Fundamentals"
+          "url": "https://www.youtube.com/watch?v=TgraZKUfIQw",
+          "name": "Trabalho de iniciante, 100kg 1,2 e 3 + montada",
+          "channel": "OVERMATCH BRAZILIAN JIU-JITSU"
         },
         {
-          "url": "https://youtube.com/watch?v=video7",
-          "name": "Defesas e Escapes",
-          "channel": "Grappling Mastery"
+          "url": "https://www.youtube.com/watch?v=A2ah0Hzc5Xg",
+          "name": "OS CONCEITOS PARA NÃO PERDER MAIS O 100KG NO JIU-JITSU",
+          "channel": "Romulo Barral"
         },
         {
-          "url": "https://youtube.com/watch?v=video8",
-          "name": "Transições Avançadas",
-          "channel": "BJJ Tactics"
+          "url": "https://www.youtube.com/watch?v=-36K_1ICsqE",
+          "name": "DOMÍNIO DA MONTADA - NO TATAME COM O MESTRE",
+          "channel": "Fabio Gurgel"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=tmlWqrmxVDY",
+          "name": "PROGRAMA DE TREINAMENTO - ESTABILIZAÇÃO DA MONTADA",
+          "channel": "BJJPROTECH"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=iYMTFKedkKE",
+          "name": "FP CLASS #5 - ESTABILIZAÇÃO DAS COSTAS!",
+          "channel": "Felipe Pena Preguiça"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=oH3afcjIrqI",
+          "name": "PROGRAMA DE TREINAMENTO - RETENÇÃO DAS COSTAS",
+          "channel": "BJJPROTECH"
         }
       ]
     },
