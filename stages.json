@@ -146,6 +146,11 @@
           "channel": "Bitim Online"
         },
         {
+          "url": "https://www.youtube.com/watch?v=imTy-7qbCYw",
+          "name": "Como ir da guarda fechada pras costas em segundos",
+          "channel": "MICAEL GALVÃO"
+        },
+        {
           "url": "https://www.youtube.com/watch?v=sDILfuYyRoM",
           "name": "Domine a Posição de Pegada de Costas no BJJ: Técnica Passo a Passo Partindo do Quadro de Apoios",
           "channel": "Start Doing"
@@ -164,14 +169,29 @@
       "extraInfo": "Dilema: continuar pontuando ou arriscar a finalização?",
       "videos": [
         {
-          "url": "https://youtube.com/watch?v=video10",
-          "name": "Finalizações da Montada",
-          "channel": "BJJ Fundamentals"
+          "url": "https://www.youtube.com/watch?v=oiUDyQ7yLuE",
+          "name": "Dificuldade em FINALIZAR das costas? PAULO MIYAO dá aula de Jiu Jitsu",
+          "channel": "Miyao - Jiu-Jitsu"
         },
         {
-          "url": "https://youtube.com/watch?v=video11",
-          "name": "Finalizações das Costas",
-          "channel": "Grappling Mastery"
+          "url": "https://www.youtube.com/watch?v=5PXOEFdBiI8",
+          "name": "2 Variações da chave de pé reta, a Botinha",
+          "channel": "Muito Oss"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=Ldu4g7c5AgA",
+          "name": "Aula obrigatória para Faixa Branca - Aprenda 4 finalizações básicas da guarda fechada",
+          "channel": "Manual do Jiu-Jitsu"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=0raw4ftpe50",
+          "name": "3 FINALIZAÇÕES DAS COSTAS QUE TODO INICIANTE DE JIU JITSU DEVERIA SABER",
+          "channel": "Muito Mais Ação Jiu Jitsu"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=RggRkZVaAAg",
+          "name": "finalização na MONTADA detalhe do Roger Gracie",
+          "channel": "Marcelo Galdino"
         }
       ]
     },
