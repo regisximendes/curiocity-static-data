@@ -348,5 +348,175 @@
     "category": "trilha",
     "latitude": 0.0,
     "longitude": 0.0
+  },
+  {
+    "id": "d5e6f7g8h9i0123456789012",
+    "name": "Mercado Público de Florianópolis",
+    "location": "Centro",
+    "description": "O Mercado Público de Florianópolis é um dos ícones históricos e culturais da cidade. Construído no século XIX, o local pulsa com vida, oferecendo uma mistura vibrante de bancas de peixes frescos, artesanato local, roupas, bares e restaurantes. É o ponto certo para experimentar pratos típicos como pastel de camarão e ostras frescas, ao som de música ao vivo e em meio a moradores e turistas. Além de ser um centro gastronômico, o mercado é também um espaço de convivência que reflete a alma manezinha.",
+    "imageUrl": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/77000/77799-Florianopolis.jpg",
+    "category": "diversos",
+    "latitude": -27.595,
+    "longitude": -48.548
+  },
+  {
+    "id": "e6f7g8h9i0j1234567890123",
+    "name": "Ponte Hercílio Luz",
+    "location": "Centro",
+    "description": "A Ponte Hercílio Luz é o maior cartão-postal de Florianópolis. Inaugurada em 1926, é uma das maiores pontes pênseis do mundo e um símbolo do patrimônio histórico e arquitetônico da cidade. Após um longo período de restauração, a ponte foi reaberta ao público, oferecendo uma belíssima travessia para pedestres e ciclistas, com vista panorâmica da baía norte. À noite, iluminada, torna-se ainda mais impressionante, atraindo fotógrafos e visitantes encantados com sua imponência.",
+    "imageUrl": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/77000/77799-Florianopolis.jpg",
+    "category": "diversos",
+    "latitude": -27.5935,
+    "longitude": -48.5649
+  },
+  {
+    "id": "f7g8h9i0j1k2345678901234",
+    "name": "Praça XV de Novembro",
+    "location": "Centro",
+    "description": "A Praça XV de Novembro é o coração histórico de Florianópolis. Conhecida pela enorme figueira centenária que domina o centro do espaço, a praça é rodeada por edifícios históricos como a Catedral Metropolitana e o Palácio Cruz e Sousa. É um ótimo lugar para caminhar, observar a movimentação da cidade e sentir a atmosfera colonial misturada com a energia moderna. Os bancos sob a sombra da figueira oferecem um refúgio tranquilo em meio ao agito urbano.",
+    "imageUrl": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/77000/77799-Florianopolis.jpg",
+    "category": "diversos",
+    "latitude": -27.5977,
+    "longitude": -48.5495
+  },
+  {
+    "id": "g8h9i0j1k2l3456789012345",
+    "name": "Museu Histórico de Santa Catarina",
+    "location": "Centro",
+    "description": "O Museu Histórico de Santa Catarina, localizado no Palácio Cruz e Sousa, é uma parada obrigatória para os amantes de história e cultura. O prédio, com sua arquitetura neoclássica imponente, já impressiona por fora. No interior, o visitante encontra exposições sobre a história política, social e cultural do estado, além de belos móveis e objetos históricos. O museu oferece um mergulho no passado de Florianópolis, ajudando a entender a formação da identidade local.",
+    "imageUrl": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/77000/77799-Florianopolis.jpg",
+    "category": "diversos",
+    "latitude": -27.5968,
+    "longitude": -48.5501
+  },
+  {
+    "id": "h9i0j1k2l3m4567890123456",
+    "name": "Santuário Nossa Senhora de Fátima",
+    "location": "Estreito",
+    "description": "O Santuário Nossa Senhora de Fátima, localizado no bairro Estreito, é um dos principais centros de fé e peregrinação de Florianópolis. Com uma arquitetura moderna e ampla, acolhe fiéis e visitantes em busca de momentos de oração e contemplação. O espaço conta com belas esculturas, jardins bem cuidados e uma vista privilegiada para a cidade, sendo também palco de importantes celebrações religiosas ao longo do ano.",
+    "imageUrl": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/77000/77799-Florianopolis.jpg",
+    "category": "diversos",
+    "latitude": -27.585,
+    "longitude": -48.579
+  },
+  {
+    "id": "i0j1k2l3m4n5678901234567",
+    "name": "Lagoa da Conceição",
+    "location": "Lagoa da Conceição",
+    "description": "A Lagoa da Conceição é um dos pontos mais icônicos e movimentados de Florianópolis, combinando belezas naturais com vida noturna, gastronomia e esportes aquáticos. Não é apenas uma lagoa: é um bairro inteiro cheio de cafés, bares, restaurantes, lojinhas e mirantes. É o lugar perfeito para passeios de pedalinho, prática de kitesurf ou simplesmente para curtir o pôr do sol em um ambiente descontraído.",
+    "imageUrl": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/77000/77799-Florianopolis.jpg",
+    "category": "diversos",
+    "latitude": -27.583,
+    "longitude": -48.4671
+  },
+  {
+    "id": "j1k2l3m4n5o6789012345678",
+    "name": "Projeto Tamar Florianópolis",
+    "location": "Barra da Lagoa",
+    "description": "O Projeto Tamar de Florianópolis é uma das principais iniciativas de preservação das tartarugas marinhas no Brasil. Localizado na Barra da Lagoa, oferece um espaço educativo e interativo onde visitantes podem aprender sobre a vida marinha, acompanhar de perto os tanques com tartarugas e entender a importância da conservação. É uma ótima atração para famílias, crianças e qualquer pessoa interessada em meio ambiente.",
+    "imageUrl": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/77000/77799-Florianopolis.jpg",
+    "category": "diversos",
+    "latitude": -27.5705,
+    "longitude": -48.4289
+  },
+  {
+    "id": "k2l3m4n5o6p7890123456789",
+    "name": "Fortaleza de São José da Ponta Grossa",
+    "location": "Praia do Forte",
+    "description": "A Fortaleza de São José da Ponta Grossa é um monumento histórico construído no século XVIII para proteger a ilha de invasões. Com uma arquitetura militar bem preservada, o local oferece não apenas uma viagem ao passado, mas também vistas incríveis do mar e das praias ao redor. O passeio inclui canhões, muralhas de pedra, um pequeno museu e trilhas curtas dentro do complexo.",
+    "imageUrl": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/77000/77799-Florianopolis.jpg",
+    "category": "diversos",
+    "latitude": -27.4254,
+    "longitude": -48.4477
+  },
+  {
+    "id": "l3m4n5o6p7q8901234567890",
+    "name": "Fortaleza de Santo Antônio de Ratones",
+    "location": "Ilha de Ratones Grande",
+    "description": "A Fortaleza de Santo Antônio de Ratones, localizada na Ilha de Ratones Grande, é acessível apenas por barco e oferece uma experiência única. Construída no século XVIII, fazia parte do sistema de defesa da Baía Norte. Hoje, é possível visitar suas muralhas, conhecer a história local e apreciar a natureza ao redor. O passeio de barco já é uma atração à parte, com vistas belíssimas da baía.",
+    "imageUrl": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/77000/77799-Florianopolis.jpg",
+    "category": "diversos",
+    "latitude": -27.4773,
+    "longitude": -48.5545
+  },
+  {
+    "id": "n5o6p7q8r9s0123456789012",
+    "name": "Santo Antônio de Lisboa",
+    "location": "Santo Antônio de Lisboa",
+    "description": "Santo Antônio de Lisboa é um dos bairros mais charmosos e históricos de Florianópolis, conhecido por sua herança açoriana preservada. As ruas de paralelepípedo, as casinhas coloridas, os restaurantes especializados em frutos do mar e os ateliês de arte tornam o bairro um passeio imperdível. Além disso, o pôr do sol visto dali é considerado um dos mais bonitos da ilha.",
+    "imageUrl": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/77000/77799-Florianopolis.jpg",
+    "category": "diversos",
+    "latitude": -27.4858,
+    "longitude": -48.517
+  },
+  {
+    "id": "o6p7q8r9s0t1234567890123",
+    "name": "Igreja de Nossa Senhora das Necessidades",
+    "location": "Santo Antônio de Lisboa",
+    "description": "A Igreja de Nossa Senhora das Necessidades é um símbolo histórico e religioso do bairro Santo Antônio de Lisboa. Construída no século XVIII, a igreja mantém a arquitetura colonial portuguesa e guarda detalhes belíssimos em seu interior. É um local perfeito para quem aprecia história, arte sacra e tranquilidade.",
+    "imageUrl": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/77000/77799-Florianopolis.jpg",
+    "category": "diversos",
+    "latitude": -27.4853,
+    "longitude": -48.5174
+  },
+  {
+    "id": "r9s0t1u2v3w4567890123456",
+    "name": "Ribeirão da Ilha",
+    "location": "Ribeirão da Ilha",
+    "description": "Ribeirão da Ilha é um dos bairros mais antigos de Florianópolis e um dos primeiros núcleos de colonização açoriana no Brasil. Conhecido pelas fazendas de ostras e frutos do mar fresquíssimos, o bairro mantém o charme colonial com igrejas antigas, casarios coloridos e ruas estreitas. É o lugar ideal para quem quer conhecer a tradição açoriana e saborear uma ostra direto da fazenda.",
+    "imageUrl": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/77000/77799-Florianopolis.jpg",
+    "category": "diversos",
+    "latitude": -27.7151,
+    "longitude": -48.5628
+  },
+  {
+    "id": "v3w4x5y6z7a8901234567890",
+    "name": "Fortaleza de Santa Cruz de Anhatomirim",
+    "location": "Ilha de Anhatomirim",
+    "description": "A Fortaleza de Santa Cruz de Anhatomirim é a maior e mais importante fortificação do sistema defensivo de Florianópolis. Construída no século XVIII, foi palco de eventos históricos, como a Revolução Federalista. O acesso é feito por barco, e a visita combina história, arquitetura e paisagens inesquecíveis.",
+    "imageUrl": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/77000/77799-Florianopolis.jpg",
+    "category": "diversos",
+    "latitude": -27.4246,
+    "longitude": -48.5244
+  },
+  {
+    "id": "w4x5y6z7a8b9012345678901",
+    "name": "Casa Açoriana",
+    "location": "Santo Antônio de Lisboa",
+    "description": "A Casa Açoriana é uma galeria de arte e centro cultural dedicado à preservação e divulgação do artesanato e da cultura açoriana. Localizada no charmoso bairro Santo Antônio de Lisboa, é um ótimo local para conhecer e adquirir obras de artistas locais, além de aprender mais sobre as tradições da região.",
+    "imageUrl": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/77000/77799-Florianopolis.jpg",
+    "category": "diversos",
+    "latitude": -27.4856,
+    "longitude": -48.5171
+  },
+  {
+    "id": "x5y6z7a8b9c0123456789012",
+    "name": "Centro Integrado de Cultura (CIC)",
+    "location": "Agronômica",
+    "description": "O Centro Integrado de Cultura (CIC) é o principal espaço cultural de Florianópolis, abrigando teatro, cinema, galeria de arte e o Museu de Arte de Santa Catarina. Oferece uma intensa programação de eventos, exposições e apresentações, sendo um ponto de referência para quem busca cultura e arte na cidade.",
+    "imageUrl": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/77000/77799-Florianopolis.jpg",
+    "category": "diversos",
+    "latitude": -27.591,
+    "longitude": -48.5395
+  },
+  {
+    "id": "y6z7a8b9c0d1234567890123",
+    "name": "Teatro Álvaro de Carvalho (TAC)",
+    "location": "Centro",
+    "description": "O Teatro Álvaro de Carvalho, inaugurado em 1875, é um dos mais antigos do Brasil e um verdadeiro patrimônio cultural de Florianópolis. Com uma arquitetura clássica e uma programação variada de espetáculos, é um local indispensável para quem aprecia teatro, música e dança.",
+    "imageUrl": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/77000/77799-Florianopolis.jpg",
+    "category": "diversos",
+    "latitude": -27.5951,
+    "longitude": -48.5475
+  },
+  {
+    "id": "z7a8b9c0d1e2345678901234",
+    "name": "Catedral Metropolitana de Florianópolis",
+    "location": "Centro",
+    "description": "A Catedral Metropolitana de Florianópolis é um dos marcos históricos e religiosos mais importantes da cidade. Localizada no centro, próxima à Praça XV, impressiona por sua arquitetura neoclássica e pelos vitrais coloridos. É um local de paz, reflexão e beleza arquitetônica.",
+    "imageUrl": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/77000/77799-Florianopolis.jpg",
+    "category": "diversos",
+    "latitude": -27.5953,
+    "longitude": -48.5479
   }
 ]
