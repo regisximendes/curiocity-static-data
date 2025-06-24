@@ -174,11 +174,6 @@
           "channel": "Miyao - Jiu-Jitsu"
         },
         {
-          "url": "https://www.youtube.com/watch?v=5PXOEFdBiI8",
-          "name": "2 Variações da chave de pé reta, a Botinha",
-          "channel": "Muito Oss"
-        },
-        {
           "url": "https://www.youtube.com/watch?v=Ldu4g7c5AgA",
           "name": "Aula obrigatória para Faixa Branca - Aprenda 4 finalizações básicas da guarda fechada",
           "channel": "Manual do Jiu-Jitsu"
@@ -207,19 +202,14 @@
       "extraInfo": "Onde a cabeça tem que estar fria e estratégica. Muita luta vira aqui.",
       "videos": [
         {
-          "url": "https://youtube.com/watch?v=video12",
-          "name": "Defesas Básicas",
-          "channel": "BJJ Fundamentals"
+          "url": "https://www.youtube.com/watch?v=HcjRSMMPw_M",
+          "name": "Contra ataque na meia guarda Parece mágica, mas é Jiu Jitsu",
+          "channel": "Marcelo Galdino"
         },
         {
-          "url": "https://youtube.com/watch?v=video13",
-          "name": "Contra-Ataques",
-          "channel": "Grappling Mastery"
-        },
-        {
-          "url": "https://youtube.com/watch?v=video14",
-          "name": "Inversões",
-          "channel": "BJJ Tactics"
+          "url": "https://www.youtube.com/watch?v=_nvCr4h8O5Q",
+          "name": "CONTRA ATAQUE SINISTRO no NORTE SUL",
+          "channel": "Marcelo Galdino"
         }
       ]
     }
